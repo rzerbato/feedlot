@@ -1,0 +1,15 @@
+.green-color{
+    color: green;
+}
+
+.red-color{
+    color: red
+}
+
+table#usuarios{
+    table-layout:fixed;
+}
+
+.columnaAcciones {
+    width: 10% !important;
+  }
